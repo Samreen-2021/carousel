@@ -1,0 +1,47 @@
+.carousel-container{
+   padding: 40px 0px;
+}
+.carousel-container .carousel-text h2 {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 400;
+	color: #0e0d0d;
+	text-transform: none;
+}
+.carousel-container .carousel-text p {
+    padding-top: 10px;
+	text-align: center;
+	font-size: 21px;
+}
+
+.carousel-container .carousel-item{
+    margin-top: 10px;
+    
+}
+.carousel-container .carousel-inner h4{
+    text-align: center;
+    font-size: 21px;
+}
+.carousel-container .carousel-inner p{
+    padding-top: 10px;
+	text-align: center;
+	font-size: 21px;
+}
+.carousel-container .carousel-inner .card{
+    border: none;
+    width:45rem;
+    margin: 20px;
+}
+
+.carousel-container .carousel-indicators{
+    background-color: rgb(7, 7, 7);
+    
+}
+.carousel-container .carousel-control-prev{
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+.carousel-container .carousel-control-next{
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
